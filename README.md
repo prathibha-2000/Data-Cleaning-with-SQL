@@ -1,1 +1,8 @@
 # Data-Cleaning-with-SQL
+
+The given raw data is cleaned and transformed in PostgreSQL server and make it usable for further analysis.
+Database: PostgreSQL
+IDE: Valentina Studio
+
+<h2> Dataset </h2>
+https://github.com/AlexTheAnalyst/PortfolioProjects/blob/2dbf63f2f2e8f7c3ff458abc8dc90ddd555f3e38/Nashville%20Housing%20Data%20for%20Data%20Cleaning%20(reuploaded).xlsx
